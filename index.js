@@ -1,6 +1,6 @@
 const { Bot } = require('grammy');
 
-const bot = new Bot('7260237598:AAEx1pRGTVe9xNHUgVz5T3MdWTVU8S6EWJU'); // Replace with your actual bot token
+const bot = new Bot('7352225841:AAEJ1gSIfMR9y7Iu-1Z8TCBlk44ZCNAfSqc'); // Replace with your actual bot token
 
 bot.api.setMyCommands([
     { command: "start", description: "Start Bot" },
